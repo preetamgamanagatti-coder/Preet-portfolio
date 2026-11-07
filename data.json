@@ -1,0 +1,157 @@
+
+{
+    "personal": {
+        "name": "Preet",
+        "role": "BCA Student | Aspiring Web Developer",
+        "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600",
+        "introduction": "I am a passionate BCA first-year student interested in web development, programming and modern technologies. I enjoy creating creative websites and learning new technical skills.",
+        "careerGoal": "My goal is to become a skilled Full Stack Developer.",
+        "email": "rahulsharma@example.com",
+        "phone": "+91 9876543210",
+        "location": "Mumbai, Maharashtra, India",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "title": "A Little About Me",
+        "description": "Hello! I am Rahul Sharma, currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in programming, website development and software technologies. I am currently learning HTML, CSS, JavaScript, Bootstrap, C and C++. I believe in continuous learning and improving my technical abilities through practical projects. My objective is to build innovative digital solutions and develop a successful career in the IT industry."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi-filetype-html",
+            "description": "Creating structured and semantic web pages.",
+            "level": 90
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi-filetype-css",
+            "description": "Designing beautiful and responsive websites.",
+            "level": 80
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi-filetype-js",
+            "description": "Adding interactive functionality to websites.",
+            "level": 65
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi-bootstrap-fill",
+            "description": "Building responsive layouts efficiently.",
+            "level": 75
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi-code-square",
+            "description": "Learning programming fundamentals and logic.",
+            "level": 70
+        },
+        {
+            "name": "C++",
+            "icon": "bi-braces",
+            "description": "Understanding object-oriented programming.",
+            "level": 60
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+            "description": "A modern personal portfolio website showcasing my profile, technical skills, projects and contact information.",
+            "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+            "description": "A simple student management project designed to organize student information and academic records.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800",
+            "description": "A responsive calculator application that performs basic mathematical operations with a clean interface.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Weather App",
+            "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800",
+            "description": "A weather application concept that displays weather information using a weather API.",
+            "technologies": ["HTML", "CSS", "JavaScript", "API"],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "ABC College of Computer Science",
+            "semester": "First Year - Semester 1",
+            "duration": "2026 - 2029",
+            "details": "Currently studying computer fundamentals, programming concepts and web technologies.",
+            "result": "Currently Pursuing"
+        },
+        {
+            "course": "Higher Secondary Certificate (12th)",
+            "college": "XYZ Junior College",
+            "semester": "Class 12",
+            "duration": "2025 - 2026",
+            "details": "Completed higher secondary education.",
+            "result": "Replace with actual percentage"
+        },
+        {
+            "course": "Secondary School Certificate (10th)",
+            "college": "XYZ High School",
+            "semester": "Class 10",
+            "duration": "2023 - 2024",
+            "details": "Completed secondary school education.",
+            "result": "Replace with actual percentage"
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "Introduction to HTML and CSS",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "JavaScript Fundamentals",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "C Programming Basics",
+            "organization": "Online Learning Platform",
+            "year": "2026"
+        }
+    ],
+
+    "social": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/"
+        }
+    ]
+}
